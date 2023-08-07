@@ -31,17 +31,19 @@ void MainWindow::CreatChart()
 
     // 创建x轴QValueAxis实例
     axisX = new QValueAxis();
-    axisX->setRange(0, 20); // 设置范围
-    axisX->setTickCount(20);
+    axisX->setRange(0, 100); // 设置范围
+    axisX->setTickCount(100);
+    axisX->setLabelsVisible(false); //隐藏坐标值
     //axisX->setLabelFormat("%d"); // 设置标签格式
     chart->addAxis(axisX, Qt::AlignBottom);
 
     // 创建y轴QValueAxis实例
     QValueAxis *yAxis = new QValueAxis;
-    yAxis->setRange(0, 20); // 设置范围
-    yAxis->setTickCount(20);
+    yAxis->setRange(-10, 50); // 设置范围
+    yAxis->setTickCount(50);
     //yAxis->setLabelFormat("%d"); // 设置标签格式
     yAxis->setGridLineVisible(true); // 显示网格线
+    yAxis->setLabelsVisible(false);
     // 将y轴添加到chart中
     chart->addAxis(yAxis, Qt::AlignLeft);
     // 在chart上绘制数据
@@ -52,34 +54,48 @@ void MainWindow::CreatChart()
     series->attachAxis(axisX);
     series->attachAxis(yAxis);
 
-    m_timer.start(1000);
+    m_timer.start(30);
 }
 
 
 void MainWindow::AddPoint()
 {
-    //是否替换第一个点
-    int tickCount = axisX->tickCount();
-
-    if (series->count() > tickCount)
-    {
-        series->remove(0);
-        for (int i = 0; i < series->count(); i++)
-        {
-            QPointF point = series->at(i);
-            point.setX(i);
-            series->replace(i, point);
-        }
-    }
+    static int count_pos = 0;
     // 获取全局的随机数生成器对象
     QRandomGenerator *generator = QRandomGenerator::global();
 
-    // 生成介于0和20之间的随机数
-    int num = generator->bounded(20);
+    // 生成介于0和2之间的随机数
+    int num = generator->bounded(2);
+    //心跳，每20个点跳动一下
+    if(count_pos % 20 == 0)
+    {
+        num = generator->bounded(40,50);
+    }
 
-    series->append(series->count(), num);
+
+    //是否替换第一个点
+    int tickCount = axisX->tickCount();
 
 
+
+    if (series->count() > tickCount)
+    {
+        if(count_pos > tickCount-1)
+            count_pos = 0;
+        // 获取要更改的点
+        QPointF point = series->points().at(count_pos);
+        // 将其y值更改为所需值
+        point.setY(num);
+        // 更新数据集中的点
+        series->replace(count_pos, point);
+
+
+    }
+    else
+    {
+        series->append(series->count(), num);
+    }
+    count_pos++;
 }
 
 

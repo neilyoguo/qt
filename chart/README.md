@@ -14,3 +14,6 @@
 ![](https://github.com/neilyoguo/qt/blob/main/chart/gif/chart1.gif)
 * 增加拖拽功能<br>
 ![](https://github.com/neilyoguo/qt/blob/main/chart/gif/chart2.gif)
+### [demo3](https://github.com/neilyoguo/qt/tree/main/chart/myChart3)
+* 通过替换存在点位置实现心跳功能
+![](https://github.com/neilyoguo/qt/blob/main/chart/gif/heartbeat.gif)
