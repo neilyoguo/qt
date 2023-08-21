@@ -11,3 +11,5 @@
 ![](https://github.com/neilyoguo/qt/blob/main/gif/rect.gif)
 * [电池](https://github.com/neilyoguo/qt/tree/main/BatteryProgress)<br>
 ![](https://github.com/neilyoguo/qt/blob/main/gif/Battery.gif)
+* [饼状图](https://github.com/neilyoguo/qt/tree/main/circleProgress)<br>
+![](https://github.com/neilyoguo/qt/blob/main/gif/circle.gif)
