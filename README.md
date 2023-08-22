@@ -13,3 +13,7 @@
 ![](https://github.com/neilyoguo/qt/blob/main/gif/Battery.gif)
 * [饼状图](https://github.com/neilyoguo/qt/tree/main/circleProgress)<br>
 ![](https://github.com/neilyoguo/qt/blob/main/gif/circle.gif)
+* [饼状图2](https://github.com/neilyoguo/qt/tree/main/circleProgress2)<br>
+![](https://github.com/neilyoguo/qt/blob/main/gif/circle2.gif)
+* [饼状图3](https://github.com/neilyoguo/qt/tree/main/circleProgress3)<br>
+![](https://github.com/neilyoguo/qt/blob/main/gif/circle3.gif)
