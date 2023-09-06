@@ -17,3 +17,6 @@
 ![](https://github.com/neilyoguo/qt/blob/main/gif/circle2.gif)
 * [饼状图3](https://github.com/neilyoguo/qt/tree/main/circleProgress3)<br>
 ![](https://github.com/neilyoguo/qt/blob/main/gif/circle3.gif)
+### 仪表盘
+[仪表盘](https://github.com/neilyoguo/qt/tree/main/Board)<br>
+![](https://github.com/neilyoguo/qt/blob/main/gif/busbarad.gif)

@@ -47,8 +47,14 @@ void Circle::paintEvent(QPaintEvent *event)
 
     painter.setPen(Qt::NoPen);
     //海水颜色
-    QColor col(40,150,200);
-    painter.setBrush(col);
+    QColor col_up(40,150,200);
+    QColor col_bottom(12,3,226);
+    QLinearGradient linearGradient(this->rect().topLeft(), this->rect().bottomLeft());
+    linearGradient.setColorAt(0, col_up);
+    linearGradient.setColorAt(1, Qt::black);
+
+
+    painter.setBrush(linearGradient);
     painter.drawPath(path);
 
 
