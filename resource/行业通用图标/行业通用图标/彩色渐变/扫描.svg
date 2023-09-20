@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="79.995" height="79.996" viewBox="0 0 79.995 79.996">
+  <g id="组_87" transform="translate(-297.395 -329.712)">
+    <g id="组_79" transform="translate(-13.495 0)">
+      <path id="交叉_8" d="M-2253-213q-16,0-16-16v-48q0-16,16-16h48q16,0,16,16v48q0,16-16,16Z" transform="translate(-1878.115 116.707) rotate(180)" fill="#2595e8"></path>
+      <path id="交叉_7" d="M-1942.112,116.708q-16,0-16-16v-48q0-16,16-16h48q16,0,16,16v22a59.093,59.093,0,0,1-44.545,41.993Z" transform="translate(2269 293)" fill="#3a9ced"></path>
+      <path id="交叉_6" d="M-1949.11,95.121V49.712q0-16,16-16h45.318c4.184,18.662-6.929,40.69-28.222,52.983a61.511,61.511,0,0,1-30.538,8.486Q-1947.84,95.182-1949.11,95.121Z" transform="translate(2260 296)" fill="#59adf8"></path>
+      <path id="交叉_5" d="M-1958.11,70.9V54.711q0-16,16-16H-1923A32.5,32.5,0,0,1-1955.5,71Q-1956.818,71-1958.11,70.9Z" transform="translate(2269 291)" fill="#6bc2fc"></path>
+      <path id="路径_144" d="M206.8,197.2a2,2,0,0,0,2-2v-10a2,2,0,0,1,2-2h10a2,2,0,1,0,0-4h-10a6,6,0,0,0-6,6v10A2,2,0,0,0,206.8,197.2Zm40-18h-10a2,2,0,0,0,0,4h10a2,2,0,0,1,2,2v10a2,2,0,0,0,4,0v-10A6,6,0,0,0,246.8,179.2Z" transform="translate(579.686 574.908) rotate(180)" fill="#fff" stroke="#fff" stroke-width="2"></path>
+      <path id="路径_145" d="M220.8,628.4h-10a2,2,0,0,1-2-2v-10a2,2,0,0,0-4,0v10a6,6,0,0,0,6,6h10a2,2,0,1,0,0-4Zm30-14a2,2,0,0,0-2,2v10a2,2,0,0,1-2,2h-10a2,2,0,1,0,0,4h10a6,6,0,0,0,6-6v-10A2,2,0,0,0,250.8,614.4Z" transform="translate(579.686 976.11) rotate(180)" fill="#fff" stroke="#fff" stroke-width="2"></path>
+      <path id="路径_146" d="M229.2,486.4h-48a2,2,0,1,0,0,4h48a2,2,0,1,0,0-4Z" transform="translate(556.086 858.11) rotate(180)" fill="#fff" stroke="#fff" stroke-width="2"></path>
+    </g>
+  </g>
+</svg>

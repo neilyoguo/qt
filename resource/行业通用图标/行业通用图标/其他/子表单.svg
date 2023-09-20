@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="37.123" height="43.31" viewBox="0 0 37.123 43.31">
+  <g id="子表单" transform="translate(-128 -64)">
+    <path id="路径_1529" d="M488,332h2.32v17.4H488Z" transform="translate(-342.599 -255.046)" fill="#298aca"></path>
+    <path id="路径_1530" d="M332,488h17.4v2.32H332Z" transform="translate(-194.139 -403.505)" fill="#298aca"></path>
+    <path id="路径_1531" d="M152.722,66.32,162.8,76.4V102.09a2.9,2.9,0,0,1-2.9,2.9H133.22a2.9,2.9,0,0,1-2.9-2.9V69.22a2.9,2.9,0,0,1,2.9-2.9h19.5m.961-2.32H133.22A5.22,5.22,0,0,0,128,69.22V102.09a5.22,5.22,0,0,0,5.22,5.22H159.9a5.22,5.22,0,0,0,5.22-5.22V75.439Z" transform="translate(0)" fill="#298aca"></path>
+    <path id="路径_1532" d="M646.682,101.381H635.34V90.04h2.32v9.021h9.022Z" transform="translate(-482.817 -24.781)" fill="#298aca"></path>
+  </g>
+</svg>

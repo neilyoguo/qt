@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115.871" height="104.63" viewBox="0 0 115.871 104.63">
+  <defs>
+    <filter id="椭圆_1" x="71.871" y="1.676" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feoffset dy="3"></feoffset>
+      <feGaussianBlur stdDeviation="3"></feGaussianBlur>
+      <feflood flood-opacity="0.161"></feflood>
+      <fecomposite operator="in" in2="blur"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+  </defs>
+  <g id="疑问" transform="translate(-1044.129 -417.324)">
+    <g id="组_69" transform="translate(508.368 182.222)">
+      <g id="组_39" transform="translate(345.526 156.543)">
+        <path id="路径_102" d="M290.9,129.893A50.334,50.334,0,1,1,240.57,79.559,50.292,50.292,0,0,1,290.9,129.893Zm0,0" transform="translate(-0.001)" fill="#fddf6d"></path>
+        <path id="路径_103" d="M251.327,203.229a50.318,50.318,0,0,1-33.655-87.74A50.321,50.321,0,1,0,274.224,197.7a49.949,49.949,0,0,1-22.9,5.527Zm0,0" transform="translate(0 -30.403)" fill="#fcc56b"></path>
+        <path id="路径_104" d="M432.809,271.744a6.119,6.119,0,1,1-6.119-6.119A6.15,6.15,0,0,1,432.809,271.744Zm0,0,34.543,0a6.119,6.119,0,1,1-6.119-6.119A6.087,6.087,0,0,1,467.353,271.744Zm0,0" transform="translate(-194.905 -157.444)" fill="#8b481b"></path>
+        <path id="路径_105" d="M338.84,382a6.824,6.824,0,0,0-6.81,6.81h13.521A6.619,6.619,0,0,0,338.84,382Zm0,0,59.118-.888a6.824,6.824,0,0,0-6.81,6.81H404.67A6.74,6.74,0,0,0,397.958,381.113Zm0,0" transform="translate(-119.984 -255.167)" fill="#f9a880"></path>
+        <path id="路径_106" d="M488.526,516.145H451.516a2.073,2.073,0,1,1,0-4.145h36.912a2.085,2.085,0,0,1,2.073,2.073,2,2,0,0,1-1.974,2.073Zm0,0" transform="translate(-219.336 -365.92)" fill="#8b481b"></path>
+        <path id="路径_107" d="M504.743,138.063c5.626,1.579,9.376,5.428,8.488,8.488-.888,3.158-6.119,4.343-11.745,2.763s-9.376-5.428-8.488-8.488C493.985,137.767,499.216,136.484,504.743,138.063Zm0,0" transform="translate(-256.081 -48.931)" fill="#fceb88"></path>
+      </g>
+      <g id="组_40" transform="translate(535.761 235.102)">
+        <path id="路径_11" d="M96.148,23.745A52.4,52.4,0,0,0,74.191,4.78a2.045,2.045,0,1,0-1.712,3.715,48.248,48.248,0,1,1-20.163-4.4,2.045,2.045,0,0,0,0-4.09A52.3,52.3,0,1,0,96.148,23.745Z" transform="translate(-0.001)" fill="#683c1e"></path>
+        <path id="路径_13" d="M631.52,22.061m-2.045,0a2.045,2.045,0,1,0,2.045-2.045A2.045,2.045,0,0,0,629.475,22.061Z" transform="translate(-565.156 -17.971)" fill="#683c1e"></path>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1044.13, 417.32)" filter="url(#椭圆_1)">
+      <circle id="椭圆_1-2" cx="13" cy="13" r="13" transform="translate(80.87 7.68)" fill="#fff"></circle>
+    </g>
+    <text id="_" transform="translate(1133 446)" fill="#333" font-size="20" font-family="SourceHanSansCN-Heavy, Source Han Sans CN" font-weight="800">
+      <tspan x="0" y="0">？</tspan>
+    </text>
+  </g>
+</svg>

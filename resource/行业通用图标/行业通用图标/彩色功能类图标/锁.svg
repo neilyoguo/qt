@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="265.389" height="269.087" viewBox="0 0 265.389 269.087">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.093" x2="0.5" y2="1.111" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"></stop>
+      <stop offset="1" stop-color="#82fee8"></stop>
+    </linearGradient>
+    <filter id="路径_294" x="47.467" y="0" width="163.694" height="84" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="10"></feoffset>
+      <feGaussianBlur stdDeviation="5"></feGaussianBlur>
+      <feflood flood-color="#9fcca6" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.015" x2="0.5" y2="1.004" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#83ffe8"></stop>
+      <stop offset="1" stop-color="#539cff"></stop>
+    </linearGradient>
+    <filter id="路径_295" x="0" y="33.784" width="265.389" height="235.303" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="20"></feoffset>
+      <feGaussianBlur stdDeviation="10"></feGaussianBlur>
+      <feflood flood-color="#acc8dd" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur-2"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.45" y1="0.992" x2="0.54" y2="-0.164" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#abfff7"></stop>
+      <stop offset="1" stop-color="#f4f7fe"></stop>
+    </linearGradient>
+    <filter id="路径_296" x="78.097" y="61.761" width="106.642" height="144.513" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="10"></feoffset>
+      <feGaussianBlur stdDeviation="5"></feGaussianBlur>
+      <feflood flood-color="#cca39e" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur-3"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+  </defs>
+  <g id="锁" transform="translate(-24.305 -1701)">
+    <g id="组_334" transform="translate(-1560.588 -568)">
+      <g transform="matrix(1, 0, 0, 1, 1584.89, 2269)" filter="url(#路径_294)">
+        <path id="路径_294-2" d="M1747.768,2289.563q-18.081-14.953-43.561-15.563-25.5.616-43.562,15.563A67.5,67.5,0,0,0,1637.36,2328h27.1a38.691,38.691,0,0,1,14.96-20.379,43.631,43.631,0,0,1,49.567,0A38.673,38.673,0,0,1,1743.951,2328h27.1A67.5,67.5,0,0,0,1747.768,2289.563Z" transform="translate(-1584.89 -2269)" fill="url(#linear-gradient)"></path>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1584.89, 2269)" filter="url(#路径_295)">
+        <path id="路径_295-2" d="M1669.934,2312.784a103.475,103.475,0,0,0-60.47,19.393,75.229,75.229,0,0,0-4.571,25.909V2412.7a75.388,75.388,0,0,0,75.388,75.389h54.613a75.389,75.389,0,0,0,75.388-75.389v-54.612a75.236,75.236,0,0,0-4.571-25.909,103.478,103.478,0,0,0-60.47-19.393Z" transform="translate(-1584.89 -2269)" fill="url(#linear-gradient-2)"></path>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1584.89, 2269)" filter="url(#路径_296)">
+        <path id="路径_296-2" d="M1744.408,2373.834q-.282-16.489-10.932-27.142-10.63-10.66-27.142-10.931-16.772.281-27.411,10.931-10.632,10.632-10.933,27.142a34.189,34.189,0,0,0,5.965,19.183,52.833,52.833,0,0,0,14.215,13.779v25.293q0,8.229,4.822,13.217c3.221,3.325,7.669,4.968,13.363,4.968h3.409c5.673,0,10.141-1.663,13.363-4.968s4.821-7.711,4.821-13.217V2406.8A38.82,38.82,0,0,0,1741,2392.455,31.539,31.539,0,0,0,1744.408,2373.834Z" transform="translate(-1584.89 -2269)" fill="url(#linear-gradient-3)"></path>
+      </g>
+    </g>
+    <g id="组_336" transform="translate(-1194.555 1234.979)">
+      <rect id="矩形_10" width="12.946" height="4.707" rx="2.354" transform="translate(1281.942 656.959)" fill="#fff"></rect>
+      <rect id="矩形_11" width="12.946" height="4.707" rx="2.354" transform="translate(1290.769 652.84) rotate(90)" fill="#fff"></rect>
+    </g>
+    <g id="组_337" transform="translate(-1208.555 1217.979)">
+      <rect id="矩形_10-2" width="10.204" height="3.71" rx="1.855" transform="translate(1281.942 656.086)" fill="#fff"></rect>
+      <rect id="矩形_11-2" width="10.204" height="3.71" rx="1.855" transform="translate(1288.899 652.84) rotate(90)" fill="#fff"></rect>
+    </g>
+    <g id="组_338" transform="translate(-1069.555 1120.979)">
+      <rect id="矩形_10-3" width="10.204" height="3.71" rx="1.855" transform="translate(1281.942 656.086)" fill="#fff"></rect>
+      <rect id="矩形_11-3" width="10.204" height="3.71" rx="1.855" transform="translate(1288.899 652.84) rotate(90)" fill="#fff"></rect>
+    </g>
+  </g>
+</svg>

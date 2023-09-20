@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="265.389" height="270.069" viewBox="0 0 265.389 270.069">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.504" y1="0.328" x2="0.489" y2="0.991" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#ff887f"></stop>
+      <stop offset="1" stop-color="#ff534a"></stop>
+    </linearGradient>
+    <filter id="矩形_20" x="0" y="4.68" width="265.389" height="265.389" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="20"></feoffset>
+      <feGaussianBlur stdDeviation="10"></feGaussianBlur>
+      <feflood flood-color="#c1948e" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.101" x2="0.5" y2="0.971" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc3bd"></stop>
+      <stop offset="1" stop-color="#fff"></stop>
+    </linearGradient>
+    <filter id="矩形_21" x="35.72" y="0" width="76.668" height="58.831" filterUnits="userSpaceOnUse">
+      <feoffset dx="5" dy="10"></feoffset>
+      <feGaussianBlur stdDeviation="5"></feGaussianBlur>
+      <feflood flood-color="#c19f9f" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur-2"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="-0.002" x2="0.5" y2="1.006" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#fff3ed"></stop>
+      <stop offset="0.999" stop-color="#ffefe0"></stop>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.466" y1="0.039" x2="0.527" y2="0.865" xlink:href="#linear-gradient"></linearGradient>
+    <filter id="椭圆_30" x="44.679" y="25.994" width="176.031" height="176.031" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="6"></feoffset>
+      <feGaussianBlur stdDeviation="10"></feGaussianBlur>
+      <feflood flood-color="#d46a6a" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur-3"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+    <linearGradient id="linear-gradient-5" x1="0.489" y1="0.007" x2="0.511" y2="1.008" xlink:href="#linear-gradient"></linearGradient>
+    <filter id="椭圆_31" x="59.843" y="53.722" width="148.574" height="148.574" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="20"></feoffset>
+      <feGaussianBlur stdDeviation="10"></feGaussianBlur>
+      <feflood flood-color="#dd9494" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur-4"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+  </defs>
+  <g id="录像" transform="translate(-219.474 -243.383)">
+    <g transform="matrix(1, 0, 0, 1, 219.47, 243.38)" filter="url(#矩形_20)">
+      <rect id="矩形_20-2" width="205.389" height="205.389" rx="75.388" transform="translate(20 14.68)" fill="url(#linear-gradient)"></rect>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 219.47, 243.38)" filter="url(#矩形_21)">
+      <rect id="矩形_21-2" width="46.668" height="28.831" rx="9.132" transform="translate(45.72 5)" fill="url(#linear-gradient-2)"></rect>
+    </g>
+    <path id="路径_190" d="M240.077,323.462H444.26a75.385,75.385,0,0,0-74.785-66H314.862A75.385,75.385,0,0,0,240.077,323.462Z" fill="url(#linear-gradient-3)"></path>
+    <circle id="椭圆_29" cx="6.975" cy="6.975" r="6.975" transform="translate(396.578 283.308)" fill="url(#linear-gradient-4)"></circle>
+    <g id="组_127">
+      <g transform="matrix(1, 0, 0, 1, 219.47, 243.38)" filter="url(#椭圆_30)">
+        <circle id="椭圆_30-2" cx="58.015" cy="58.015" r="58.015" transform="translate(64.68 49.99)" fill="#fff"></circle>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 219.47, 243.38)" filter="url(#椭圆_31)">
+        <circle id="椭圆_31-2" cx="44.287" cy="44.287" r="44.287" transform="translate(79.84 63.72)" fill="url(#linear-gradient-5)"></circle>
+      </g>
+      <circle id="椭圆_32" cx="5.095" cy="5.095" r="5.095" transform="translate(320.718 331.218)" fill="#fff"></circle>
+      <circle id="椭圆_33" cx="3.758" cy="3.758" r="3.758" transform="translate(316.96 347.635)" fill="#fff"></circle>
+    </g>
+  </g>
+</svg>

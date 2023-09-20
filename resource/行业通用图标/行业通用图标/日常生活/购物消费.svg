@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="118.188" height="118.188" viewBox="0 0 118.188 118.188">
+  <g id="购物消费" transform="translate(-64.188 -64)">
+    <path id="路径_684" d="M123.094,123.094m-59.094,0A59.094,59.094,0,1,0,123.094,64,59.094,59.094,0,0,0,64,123.094Z" transform="translate(0.188 0)" fill="#fee8eb"></path>
+    <g id="组_427" transform="translate(0 5.776)">
+      <path id="路径_685" d="M335.315,342.677H272L279.914,282H327.4Z" transform="translate(-180.812 -189)" fill="#ff6b6a"></path>
+      <path id="路径_686" d="M384.518,440.762H343.1L348.284,404l-1.768,34.3Z" transform="translate(-242.285 -295.152)" fill="#fee8eb"></path>
+      <path id="路径_687" d="M418.979,323.979m-1.979,0A1.979,1.979,0,1,0,418.979,322,1.979,1.979,0,0,0,417,323.979Z" transform="translate(-306.437 -223.968)" fill="#fee8eb"></path>
+      <path id="路径_688" d="M578.979,323.979m-1.979,0A1.979,1.979,0,1,0,578.979,322,1.979,1.979,0,0,0,577,323.979Z" transform="translate(-445.332 -223.968)" fill="#fee8eb"></path>
+      <path id="路径_689" d="M429.531,190.957a8.574,8.574,0,0,1,8.574,8.574h3.957a12.531,12.531,0,0,0-25.062,0h3.957A8.574,8.574,0,0,1,429.531,190.957Z" transform="translate(-306.437 -106.776)" fill="#fff"></path>
+    </g>
+  </g>
+</svg>

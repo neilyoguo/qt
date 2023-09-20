@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Account.contrast-white.ico</file>
+        <file>images/cog.ico</file>
+        <file>images/config.ico</file>
+        <file>images/cross.ico</file>
+        <file>images/logo.ico</file>
+        <file>images/series.ico</file>
+        <file>images/帮助.svg</file>
+        <file>images/文档.svg</file>
+        <file>images/文件.svg</file>
+        <file>images/文件夹.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="265.389" height="275.72" viewBox="0 0 265.389 275.72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.002" x2="0.5" y2="1.006" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcb796"></stop>
+      <stop offset="1" stop-color="#fd6e56"></stop>
+    </linearGradient>
+    <filter id="矩形_6" x="0" y="10.331" width="265.389" height="265.389" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="20"></feoffset>
+      <feGaussianBlur stdDeviation="10"></feGaussianBlur>
+      <feflood flood-color="#e2a1a1" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.005" x2="0.5" y2="0.982" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"></stop>
+      <stop offset="1" stop-color="#ffd7ce"></stop>
+    </linearGradient>
+    <filter id="路径_177" x="28.005" y="0" width="209.379" height="231.637" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="20"></feoffset>
+      <feGaussianBlur stdDeviation="10"></feGaussianBlur>
+      <feflood flood-color="#fd6a51" flood-opacity="0.749"></feflood>
+      <fecomposite operator="in" in2="blur-2"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+    <filter id="椭圆_27" x="72.417" y="4" width="120.556" height="140.431" filterUnits="userSpaceOnUse">
+      <feoffset dx="10" dy="10"></feoffset>
+      <feGaussianBlur stdDeviation="5"></feGaussianBlur>
+      <feflood flood-color="#fd8773" flood-opacity="0.31"></feflood>
+      <fecomposite operator="in" in2="blur-3"></fecomposite>
+      <fecomposite in="SourceGraphic"></fecomposite>
+    </filter>
+  </defs>
+  <g id="联系人" transform="translate(-1242.942 -574.34)">
+    <g transform="matrix(1, 0, 0, 1, 1242.94, 574.34)" filter="url(#矩形_6)">
+      <rect id="矩形_6-2" width="205.389" height="205.389" rx="75.388" transform="translate(20 20.33)" fill="url(#linear-gradient)"></rect>
+    </g>
+    <g id="组_85">
+      <g transform="matrix(1, 0, 0, 1, 1242.94, 574.34)" filter="url(#路径_177)">
+        <path id="路径_177-2" d="M1440.246,731.26c.325-3.075-.364-7.012-3.479-11.7a26.627,26.627,0,0,0-20.254-11.958c-21.478-3.321-28.523-10.694-28.538-10.694l-.63-.675c-2.283-2.157-3.069-5.983-3.286-9.309,13.96-10.618,22.778-31.118,22.778-53.655,0-36.113-22.409-48.928-41.6-48.928s-41.6,12.81-41.6,48.928c0,22.537,8.829,43.042,22.789,53.661-.207,3.316-.993,7.13-3.3,9.3l-.5.523c-.066.071-7.076,7.5-28.66,10.84-3.029.107-15.708,1.291-21.181,13.481a18.041,18.041,0,0,0-1.705,9.879,7.79,7.79,0,0,0-.116,1.3c0,13.1,33.436,23.72,74.681,23.72s74.682-10.62,74.682-23.72A7.545,7.545,0,0,0,1440.246,731.26Z" transform="translate(-1242.94 -574.34)" fill="url(#linear-gradient-2)"></path>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1242.94, 574.34)" filter="url(#椭圆_27)">
+        <ellipse id="椭圆_27-2" cx="45.278" cy="55.216" rx="45.278" ry="55.216" transform="translate(77.42 9)" fill="url(#linear-gradient-2)"></ellipse>
+      </g>
+    </g>
+    <g id="组_94">
+      <rect id="矩形_10" width="11" height="4" rx="2" transform="translate(1281.942 656.34)" fill="#fff"></rect>
+      <rect id="矩形_11" width="11" height="4" rx="2" transform="translate(1289.442 652.84) rotate(90)" fill="#fff"></rect>
+    </g>
+    <g id="组_95" transform="translate(151.35 -29.819)">
+      <rect id="矩形_10-2" width="9.65" height="3.509" rx="1.754" transform="translate(1281.942 655.91)" fill="#fff"></rect>
+      <rect id="矩形_11-2" width="9.65" height="3.509" rx="1.754" transform="translate(1288.521 652.84) rotate(90)" fill="#fff"></rect>
+    </g>
+    <g id="组_96" transform="translate(61.35 116.737)" opacity="0.6">
+      <rect id="矩形_10-3" width="12.946" height="4.707" rx="2.354" transform="translate(1281.942 656.959)" fill="#fff"></rect>
+      <rect id="矩形_11-3" width="12.946" height="4.707" rx="2.354" transform="translate(1290.769 652.84) rotate(90)" fill="#fff"></rect>
+    </g>
+  </g>
+</svg>
