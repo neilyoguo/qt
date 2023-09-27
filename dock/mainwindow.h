@@ -5,19 +5,13 @@
 #include "DockManager.h"
 #include "BusView/busview.h"
 #include "SeriesView/seriesview.h"
-
+#include "qqdrawer.h"
+#include "tools.h"
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
 
 
-
-static QIcon svgIcon(const QString& File)
-{
-    QIcon SvgIcon(File);
-    SvgIcon.addPixmap(SvgIcon.pixmap(92));
-    return SvgIcon;
-}
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
@@ -39,6 +33,8 @@ private:
 
     SeriesView *series_view;
 
+    qqDrawer *qq_drawer;
+
     //dock对象
     ads::CDockWidget *dock_bus_a;
     ads::CDockWidget *dock_bus_b;
@@ -46,6 +42,8 @@ private:
     ads::CDockWidget *dock_bus_uart_2;
 
     ads::CDockWidget *dock_series;
+
+    ads::CDockWidget *dock_qq;
 
 
 

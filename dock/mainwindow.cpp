@@ -105,6 +105,10 @@ void MainWindow::InitMenuBar()
     dock_series->setToggleViewActionMode(ads::CDockWidget::ActionModeShow);
     view_menu->addAction(dock_series->toggleViewAction());
 
+
+    dock_qq->setToggleViewActionMode(ads::CDockWidget::ActionModeShow);
+    view_menu->addAction(dock_qq->toggleViewAction());
+
 }
 
 void MainWindow::SaveLayout()
@@ -152,6 +156,12 @@ void MainWindow::InitSubDock()
    dock_series = new ads::CDockWidget("pointView",this);
    dock_series->setWidget(series_view);
    m_pDockManager->addDockWidget(ads::CenterDockWidgetArea,dock_series);
+
+
+   qq_drawer = new qqDrawer();
+   dock_qq = new ads::CDockWidget("qqView",this);
+   dock_qq->setWidget(qq_drawer);
+   m_pDockManager->addDockWidget(ads::CenterDockWidgetArea,dock_qq);
 
 }
 

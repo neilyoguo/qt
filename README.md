@@ -4,6 +4,13 @@
 
 ## [qcustomplot的使用](https://github.com/neilyoguo/qt/tree/main/qcustomplot)
 
+
+## dock
+[代码](https://github.com/neilyoguo/qt/tree/main/dock)<br>
+### 实现类似于vsdock窗口
+![](https://github.com/neilyoguo/qt/blob/main/gif/dock.gif)
+### 实现抽屉
+![](https://github.com/neilyoguo/qt/blob/main/gif/%E6%8A%BD%E5%B1%89.gif)
 ## 自定义控件
 
 ### 进度条

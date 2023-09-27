@@ -10,5 +10,7 @@
         <file>images/文档.svg</file>
         <file>images/文件.svg</file>
         <file>images/文件夹.svg</file>
+        <file>images/方向-向下.svg</file>
+        <file>images/方向-向右.svg</file>
     </qresource>
 </RCC>

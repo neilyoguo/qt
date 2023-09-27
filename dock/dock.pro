@@ -13,16 +13,20 @@ SOURCES += \
     SeriesView/qcustomplot.cpp \
     SeriesView/seriesview.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    qqdrawer.cpp
 
 HEADERS += \
     BusView/busview.h \
     SeriesView/qcustomplot.h \
     SeriesView/seriesview.h \
-    mainwindow.h
+    mainwindow.h \
+    qqdrawer.h \
+    tools.h
 
 FORMS += \
-    mainwindow.ui
+    mainwindow.ui \
+    qqdrawer.ui
 
 INCLUDEPATH += $$PWD/QADS/src
 LIBS += -L$$PWD/QADS/lib/ -lqtadvanceddockingd
